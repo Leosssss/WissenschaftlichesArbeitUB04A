@@ -7,6 +7,10 @@ Um diese großartige Anwendung zum laufen zu bringen, brauchen wir PowerShell au
 
 # Installieren von PowerShell 
 -> unter Windows: https://docs.microsoft.com/de-de/powershell/scripting/install/installing-powershell-core-on-windows?view=powershell-7
+
 -> unter Linux: https://docs.microsoft.com/de-de/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-7
+
 -> unter macOS: https://docs.microsoft.com/de-de/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-7
+
 -> unter ARM: https://docs.microsoft.com/de-de/powershell/scripting/install/powershell-core-on-arm?view=powershell-7
+
